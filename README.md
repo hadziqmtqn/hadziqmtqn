@@ -1,4 +1,4 @@
-[![Twitter: hadziq_mtqn](https://img.shields.io/twitter/follow/hadziq_mtqn?style=social)](https://twitter.com/hadziq_mtqn)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhadziq_mtqn)
 [![Linkedin: hadziqmtqn](https://img.shields.io/badge/-hadziqmtqn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hadziqmtqn/)](https://www.linkedin.com/in/hadziqmtqn/)
 [![GitHub hadziqmtqn](https://img.shields.io/github/followers/hadziqmtqn?label=follow&style=social)](https://github.com/hadziqmtqn)
 [![website](https://img.shields.io/badge/Blog-bekenweb.com-2648ff?style=flat-square&logo=google-chrome)](https://www.bekenweb.com)
