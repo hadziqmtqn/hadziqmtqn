@@ -1,10 +1,11 @@
-```
-public struct AboutMe {
-    let name = "Hadziq"
-    var pronouns = ["he","him"]
+```php
+public function aboutMe()
+{
+    $name = "Hadziq";
+    $pronouns = ["he", "him"];
+    $profession = "Backend Developer";
+    $preferredTechStack = ["php", "laravel"];
     
-    let profession = "Backend Developer"
-    
-    var preferredTechStack = ["php", "laravel"]
+    return view('aboutme', compact('name', 'pronouns', 'profession', 'preferredTechStack'));
 }
 ```
