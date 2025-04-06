@@ -6,6 +6,5 @@ public struct AboutMe {
     let profession = "Backend Developer"
     
     var preferredTechStack = ["php", "laravel"]
-    var hasUsed = ["react", "javascript", "firebase"]
 }
 ```
